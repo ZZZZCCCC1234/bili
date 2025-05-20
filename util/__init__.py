@@ -8,6 +8,7 @@ import importlib
 from typing import Any, Optional
 from loguru import logger
 from util.BiliRequest import BiliRequest
+from util.CookieManager import CookieManager
 from util.KVDatabase import KVDatabase
 from util.LogConfig import loguru_config
 from util.TimeUtil import TimeUtil
@@ -110,3 +111,14 @@ class GlobalStatus:
 
 
 GlobalStatusInstance = GlobalStatus()
+
+if __name__ == "__main__":
+    # 创建 CookieManager 实例，指定数据库路径（可选）
+    cookie_manager = CookieManager(config_file_path="cookies_db.json")
+
+    # 调用私有方法进行登录并保存 Cookie
+    try:
+        cookies = cookie_manager._login_and_save_cookies()
+        print("获取到的 Cookies：", cookies)
+    except Exception as e:
+        print("登录过程中发生错误：", e)

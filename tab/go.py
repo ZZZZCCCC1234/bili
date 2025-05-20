@@ -23,7 +23,7 @@ if bili_ticket_gt_python is not None:
     ways_detail.insert(
         0, importlib.import_module("geetest.TripleValidator").TripleValidator()
     )
-    ways.insert(0, "本地过验证码v2(Amorter提供)")
+    ways.insert(0, "本地过验证码1v2(Amorter提供)")
     # ways_detail.insert(0, importlib.import_module("geetest.AmorterValidator").AmorterValidator())
     # ways.insert(0, "本地过验证码(Amorter提供)")
 
