@@ -71,5 +71,14 @@ class CookieManager:
         self._login_and_save_cookies()
         return self.get_cookies_str()
 
+if __name__ == "__main__":
+    # 创建 CookieManager 实例，指定数据库路径（可选）
+    cookie_manager = CookieManager(config_file_path="cookies_db.json")
 
+    # 调用私有方法进行登录并保存 Cookie
+    try:
+        cookies = cookie_manager._login_and_save_cookies()
+        print("获取到的 Cookies：", cookies)
+    except Exception as e:
+        print("登录过程中发生错误：", e)
 
