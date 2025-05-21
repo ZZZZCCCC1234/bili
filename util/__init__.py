@@ -35,11 +35,14 @@ FILES_ROOT_PATH: str = get_application_path()  # 文件根目录
 def get_application_tmp_path() -> str:
     os.makedirs(os.path.join(FILES_ROOT_PATH, "tmp"), exist_ok=True)
     return os.path.join(FILES_ROOT_PATH, "tmp")
+def get_application_log_path() -> str:
+    os.makedirs(os.path.join(FILES_ROOT_PATH, "btb_logs"), exist_ok=True)
+    return os.path.join(FILES_ROOT_PATH, "btb_logs")
 
 
 EXE_PATH: str = os.path.dirname(os.path.realpath(sys.executable))  # 应用目录
 TEMP_PATH: str = get_application_tmp_path()  # 临时目录
-LOG_DIR: str = os.path.join(EXE_PATH, "btb_logs")
+LOG_DIR: str = get_application_log_path()
 loguru_config(LOG_DIR, "app.log", enable_console=True, file_colorize=False)
 ERRNO_DICT = {
     0: "成功",
