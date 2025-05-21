@@ -75,8 +75,8 @@ __all__ = [
 loguru.logger.debug(
     f"设置路径, FILES_ROOT_PATH={FILES_ROOT_PATH} TEMP_PATH={TEMP_PATH} EXE_PATH={EXE_PATH}"
 )
-ConfigDB = KVDatabase(os.path.join(EXE_PATH, "config.json"))
-GLOBAL_COOKIE_PATH = os.path.join(EXE_PATH, "cookies.json")
+ConfigDB = KVDatabase(os.path.join(FILES_ROOT_PATH, "config.json"))
+GLOBAL_COOKIE_PATH = os.path.join(FILES_ROOT_PATH, "cookies.json")
 main_request = BiliRequest(cookies_config_path=GLOBAL_COOKIE_PATH)
 
 
