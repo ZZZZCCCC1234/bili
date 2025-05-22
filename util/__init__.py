@@ -14,6 +14,7 @@ from util.LogConfig import loguru_config
 from util.TimeUtil import TimeUtil
 
 
+
 def get_application_path() -> str:
     if getattr(sys, "frozen", False):
         application_path = getattr(
