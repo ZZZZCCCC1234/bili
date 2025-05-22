@@ -14,9 +14,6 @@ def ticker_cmd(args: Namespace):
 
     loguru_config(LOG_DIR, "app.log", enable_console=True, file_colorize=False)
     header = """
-    # B 站会员购抢票🌈
-
-    ⚠️此项目完全开源免费 （[项目地址](https://github.com/mikumifa/biliTickerBuy)），切勿进行盈利，所造成的后果与本人无关。
     """
 
     with gr.Blocks(
