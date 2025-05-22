@@ -10,3 +10,18 @@
 [2025-05-22:16:47:45.086]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
 [2025-05-22:16:47:45.115]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
 [2025-05-22:16:47:45.115]|INFO|util.TimeUtil:45|设置时间偏差为: -0.15967秒
+[2025-05-23:00:56:04.108]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
+[2025-05-23:00:56:04.168]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
+[2025-05-23:00:56:04.168]|INFO|util.TimeUtil:45|设置时间偏差为: 0.20703秒
+[2025-05-23:00:56:05.215]|WARNING|util.BiliRequest:100|获取用户名失败，请重新登录
+[2025-05-23:00:56:23.795]|INFO|util.CookieManager:16|启动浏览器中，第一次启动会比较慢，请使用在浏览器登录
+[2025-05-23:00:56:26.484]|INFO|util.CookieManager:23|浏览器启动, 进行登录.
+[2025-05-23:00:56:35.769]|INFO|util.CookieManager:28|登录成功, 浏览器退出.
+[2025-05-23:01:06:05.366]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
+[2025-05-23:01:07:25.936]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
+[2025-05-23:01:08:17.068]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
+[2025-05-23:01:08:25.588]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
+[2025-05-23:01:08:25.589]|INFO|util.TimeUtil:45|设置时间偏差为: 0.20913秒
+[2025-05-23:01:09:40.149]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
+[2025-05-23:01:10:09.666]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
+[2025-05-23:01:10:22.611]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
