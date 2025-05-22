@@ -4,3 +4,9 @@
 [2025-05-22:14:59:23.293]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
 [2025-05-22:14:59:23.346]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
 [2025-05-22:14:59:23.347]|INFO|util.TimeUtil:45|设置时间偏差为: -0.19578秒
+[2025-05-22:16:46:54.882]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
+[2025-05-22:16:46:54.942]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
+[2025-05-22:16:46:54.943]|INFO|util.TimeUtil:45|设置时间偏差为: -0.15973秒
+[2025-05-22:16:47:45.086]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
+[2025-05-22:16:47:45.115]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
+[2025-05-22:16:47:45.115]|INFO|util.TimeUtil:45|设置时间偏差为: -0.15967秒
