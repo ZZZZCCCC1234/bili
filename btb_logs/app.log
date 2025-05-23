@@ -25,3 +25,21 @@
 [2025-05-23:01:09:40.149]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
 [2025-05-23:01:10:09.666]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
 [2025-05-23:01:10:22.611]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=D:\CODE\bili TEMP_PATH=D:\CODE\bili\tmp EXE_PATH=C:\Anaconda\envs\biliTickerBuy
+[2025-05-23:15:23:19.336]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
+[2025-05-23:15:23:19.401]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
+[2025-05-23:15:23:19.401]|INFO|util.TimeUtil:45|设置时间偏差为: -0.08795秒
+[2025-05-23:15:24:22.016]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
+[2025-05-23:15:24:22.045]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
+[2025-05-23:15:24:22.045]|INFO|util.TimeUtil:45|设置时间偏差为: -0.04977秒
+[2025-05-23:16:16:52.079]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
+[2025-05-23:16:25:32.462]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
+[2025-05-23:16:25:32.584]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
+[2025-05-23:16:25:32.584]|INFO|util.TimeUtil:45|设置时间偏差为: -0.08294秒
+[2025-05-23:16:25:43.552]|DEBUG|tab.settings:140|{'errno': 0, 'errtag': 0, 'msg': '', 'data': {'max_limit': 30, 'list': [{'id': 5710376, 'uid': 40033523, 'account_channel': '', 'personal_id': '342529200104143011', 'name': '赵晨', 'id_card_front': '', 'id_card_back': '', 'is_default': 0, 'tel': '17356371683', 'error_code': '0', 'id_type': 0, 'verify_status': 1, 'accountId': 40033523}, {'id': 5760839, 'uid': 40033523, 'account_channel': '', 'personal_id': '341823200406172026', 'name': '朱靓霞', 'id_card_front': '', 'id_card_back': '', 'is_default': 0, 'tel': '15198166695', 'error_code': '0', 'id_type': 0, 'verify_status': 1, 'accountId': 40033523}]}}
+[2025-05-23:16:25:43.610]|DEBUG|tab.settings:144|{'errno': 0, 'errtag': 0, 'msg': '', 'data': {'limit': 10, 'addr_list': [{'id': 22402944, 'uid': 40033523, 'account_channel': '', 'def': 1, 'status': 0, 'prov_id': 310000, 'city_id': 310100, 'area_id': 310115, 'name': '丁真珍珠', 'phone': '17356371683', 'addr': '南汇新城镇沪城环路999号上海海洋大学本科区', 'zip_code': '', 'accountId': 40033523, 'prov': '上海市', 'city': '上海市', 'area': '浦东新区'}, {'id': 27564971, 'uid': 40033523, 'account_channel': '', 'def': 0, 'status': 0, 'prov_id': 310000, 'city_id': 310100, 'area_id': 310113, 'name': '丁真珍珠', 'phone': '17356371683', 'addr': '长江路868号互联宝地宝山园友间公寓36号楼', 'zip_code': '', 'accountId': 40033523, 'prov': '上海市', 'city': '上海市', 'area': '宝山区'}]}}
+[2025-05-23:16:26:05.967]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
+[2025-05-23:16:26:06.003]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
+[2025-05-23:16:26:06.003]|INFO|util.TimeUtil:45|设置时间偏差为: -0.08547秒
+[2025-05-23:16:38:55.878]|DEBUG|util:76|设置路径, FILES_ROOT_PATH=/Users/bilibili/ticker/bili TEMP_PATH=/Users/bilibili/ticker/bili/tmp EXE_PATH=/usr/local/Cellar/python@3.11/3.11.12/Frameworks/Python.framework/Versions/3.11/bin
+[2025-05-23:16:38:55.927]|INFO|util.TimeUtil:32|时间同步成功, 将使用ntp.aliyun.com时间
+[2025-05-23:16:38:55.927]|INFO|util.TimeUtil:45|设置时间偏差为: -0.09516秒

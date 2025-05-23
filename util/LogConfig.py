@@ -34,4 +34,4 @@ def loguru_config(
             colorize=True,
             format="<green>[{time:MM-DD:HH:mm:ss.SSS}]</green>|<level>{level}</level>|<level>{message}</level>",
         )
-    return os.path.join(log_dir, log_file_name)
+        return os.path.join(log_dir, log_file_name)
